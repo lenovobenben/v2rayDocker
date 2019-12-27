@@ -1,4 +1,4 @@
-# 一键 V2ray websocket + TLS
+# 一键 V2Ray + TLS + WebSocket
 
 一键就完事了，扫描二维码 或者 复制 vmess链接 无需关心复杂的V2ray 配置，websocket + tls 更安全，伪装更好。
 
